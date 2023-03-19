@@ -26,3 +26,4 @@ output = square_root*sympy.sqrt(other_factor)
 
 # Sympy output without print statement - must be last line
 print(output) 
+
