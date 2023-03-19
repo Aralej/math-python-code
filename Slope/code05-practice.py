@@ -1,7 +1,7 @@
 #Notes and work
 #1500 = 10x + 500
 #0 = 10x - 1000
-#x=100
+
 #Solve an equation
 
 import sympy 

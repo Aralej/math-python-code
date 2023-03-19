@@ -23,7 +23,7 @@ b = y1 - m*x1
 # The full equation
 print("y = ", m, "x + ", b)
 
-#Also display the graph
+####Also display the graph
 import matplotlib.pyplot as plt
 
 x1 = 2
