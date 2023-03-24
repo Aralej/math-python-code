@@ -1,6 +1,6 @@
 #Sliders to show how a, b, and c affect the graph
 
-#matplotlib inline
+#%matplotlib inline
 from ipywidgets import interactive
 import matplotlib.pyplot as plt
 import numpy as np
